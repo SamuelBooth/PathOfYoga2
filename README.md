@@ -1,1 +1,1 @@
-"# PathOfYoga2" 
+"# YogaPath" 
